@@ -1,5 +1,5 @@
 # siyar-celebrities
-more than 5800 islam celebrity with biography from the book of Siyar alam al-nubala
+more than 5800 islam celebrity with biography from the book of Siyar alam al-nubala in arabic
 # more info
 - the json objects have as values the id ,name(of the celebrity) and the biography
 - the json files contain 500 object each , the last one has about 320 object
